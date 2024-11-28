@@ -17,7 +17,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="01_PAMIP.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="01_PAMIP.jpg" alt="PAMIP" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -34,7 +34,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="02_ARCTICx8.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="02_ARCTICx8.jpg" alt="ARCTIC_refinement_CESM" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -46,7 +46,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="03_WBC.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="03_WBC.jpg" alt="Western_Boundary_Currents" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -58,7 +58,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="04_SAI.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="04_SAI.jpg" alt="Stratospheric_Aerosol_Injection" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -70,7 +70,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="05_WRF.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="05_WRF.jpg" alt="2011_tornado_outbreak" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -82,7 +82,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="06_S2S.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="06_S2S.jpg" alt="Subseasonal_to_seasonal_prediction" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
@@ -94,7 +94,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-      <img src="07_STC.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+      <img src="07_STC.jpg" alt="stratosphere_troposphere_coupling" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
