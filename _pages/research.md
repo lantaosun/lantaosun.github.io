@@ -19,9 +19,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
     <img src="01_PAMIP.jpg" alt="Figure 1" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2;">
-    <strong>Title of Publication</strong><br>
-    Author(s): L. Sun, R. Wills, C. Deser, A. Herrington, I. Simpson, M. Gervais (2024)<br>
-    <em>Sensitivity of Atmospheric Response to Future Arctic Sea Ice loss at Different Arctic Horizontal Resolutions in PAMIP-type Simulations</em><br>
-    Status: In preparation
+    <strong>Polar-amplification-Model-Intercomparison Project (PAMIP)</strong><br>
+    One of my primary research interests is the Arctic, specifically the impact of future sea ice loss on the global climate system. I have been deeply involved in the PAMIP, which aims to understand the causes and consequences of polar amplification. We have conducted various modeling experiments to address questions including,
   </div>
 </div>
