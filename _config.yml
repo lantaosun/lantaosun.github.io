@@ -21,7 +21,7 @@ repository               : "lantaosun/lantaosun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ice.png"
   name             : "Lantao Sun"
   pronouns         : "he/him/his"  
   bio              : "Climate scientist"
