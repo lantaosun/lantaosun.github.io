@@ -15,19 +15,19 @@ author_profile: true
 
 # Manuscript in preparation & submitted & in-press
 
-Sun, L., R. Wills, C. Deser, A. Herrington, I. Simpson, M. Gervais, 2024: Sensitivity of Atmospheric Response to Future Arctic Sea Ice loss at Different Arctic Horizontal Resolutions in PAMIP-type Simulations, in preparation.
+- Sun, L., R. Wills, C. Deser, A. Herrington, I. Simpson, M. Gervais, 2024: Sensitivity of Atmospheric Response to Future Arctic Sea Ice loss at Different Arctic Horizontal Resolutions in PAMIP-type Simulations, in preparation.
 
-Sun, L., J. Hurrell, K. Rasmussen, B. Kravitz, B. Summers, 2024: Assessing the Impact of Solar Climate Intervention on Future U.S. Weather Using a Convection-Permitting Model, In preparation.
+- Sun, L., J. Hurrell, K. Rasmussen, B. Kravitz, B. Summers, 2024: Assessing the Impact of Solar Climate Intervention on Future U.S. Weather Using a Convection-Permitting Model, In preparation.
 
-Sun, L., C. Patrizio, D. Thompson and J. Hurrell, 2024: Influence of Extratropical Ocean Heat Transport on Atmospheric Vertical Motion Variability in a High-Resolution Slab-Ocean Coupled Model, Geophysical Research Letters, In revision, preprint available at: DOI: 10.22541/essoar.172304446.60110584/v1.
+- Sun, L., C. Patrizio, D. Thompson and J. Hurrell, 2024: Influence of Extratropical Ocean Heat Transport on Atmospheric Vertical Motion Variability in a High-Resolution Slab-Ocean Coupled Model, Geophysical Research Letters, In revision, preprint available at: DOI: 10.22541/essoar.172304446.60110584/v1.
 
-Kang J., T. Shaw and L. Sun, 2024: Anthropogenic aerosols have significantly weakened the regional summertime circulation in the Northern Hemisphere during the satellite era, AGU advance, In press.
+- Kang J., T. Shaw and L. Sun, 2024: Anthropogenic aerosols have significantly weakened the regional summertime circulation in the Northern Hemisphere during the satellite era, AGU advance, In press.
 
-Anindita, C., J. W. Hurrell, K. Rasmussen and L. Sun, 2024: Evaluating Changes in Convective Environments Over Subtropical South America Under Forced and Natural Climate Variability, Geophysical Research Letters, In revision.
+- Anindita, C., J. W. Hurrell, K. Rasmussen and L. Sun, 2024: Evaluating Changes in Convective Environments Over Subtropical South America Under Forced and Natural Climate Variability, Geophysical Research Letters, In revision.
 
-Ding, X., G. Chen, Y. Wang and L. Sun, 2024: Disentangling the Effect of Anthropogenic Aerosols on the Spring Warming Asymmetry between Eurasia and North America, in review.
+- Ding, X., G. Chen, Y. Wang and L. Sun, 2024: Disentangling the Effect of Anthropogenic Aerosols on the Spring Warming Asymmetry between Eurasia and North America, in review.
 
-Kaye, AR, U. Obolski, L. Sun, J. W. Hurrell, M. J. Tildesley, R. N. Thompson, 2024: The impact of climate change and natural climate variability on the global distribution of Aedes aegypti, The lancet Planetary Health, in press, preprint available at:  https://doi.org/10.1101/2023.08.31.23294902.
+- Kaye, AR, U. Obolski, L. Sun, J. W. Hurrell, M. J. Tildesley, R. N. Thompson, 2024: The impact of climate change and natural climate variability on the global distribution of Aedes aegypti, The lancet Planetary Health, in press, preprint available at:  https://doi.org/10.1101/2023.08.31.23294902.
 
 
 # Peer-reviewed Publications
