@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research: Earth System Modeling & Climate Dynamics"
 permalink: /research/
 author_profile: true
 ---
