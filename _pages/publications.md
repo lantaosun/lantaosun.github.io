@@ -146,3 +146,6 @@ author_profile: true
 
 </ol>
 
+# Ph.D. dissertation
+
+- Sun, L., Downward influence of stratospheric final warming events in an idealized model, University of Illinois at Urbana-Champaign, August 2010.
