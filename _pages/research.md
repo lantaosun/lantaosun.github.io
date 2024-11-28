@@ -17,7 +17,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
-    <img src="01_PAMIP.jpg" alt="Polar-amplification-Model-Intercomparison Project (PAMIP)" style="width: 150px; height: auto;">
+      <img src="01_PAMIP.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
   </div>
   <!-- Right: Text -->
   <div style="flex: 2;">
