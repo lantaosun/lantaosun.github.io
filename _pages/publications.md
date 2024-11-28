@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 # Manuscript in preparation & submitted & in-press
 
 Sun, L., R. Wills, C. Deser, A. Herrington, I. Simpson, M. Gervais, 2024: Sensitivity of Atmospheric Response to Future Arctic Sea Ice loss at Different Arctic Horizontal Resolutions in PAMIP-type Simulations, in preparation.
