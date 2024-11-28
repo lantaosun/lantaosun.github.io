@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Atmospheric dynamics, University of Illinois at Urbana-Champaign, 2010
+* M.S. and B.S. in Atmospheric Science, Peking University, Beijing, China, 2005, 2002.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Research Scientist III, Colorado State University, Fort Collins, CO                
+* 2015-2019: Research Scientist I, II, CIRES, CU-Boulder and NOAA ESRL-PSD	   
+* 2013-2015: Postdoctoral Associate, NCAR, Boulder, CO				   
+* 2010-2013: Postdoctoral Associate, Cornell University, Ithaca, NY	                           
+* 2005-2010: Research Assistant, University of Illinois at Urbana-Champaign, Urbana, IL 
   
 Skills
 ======
