@@ -34,7 +34,7 @@ author_profile: true
 
 <ol reversed>
 
-<li>Frank, M, J, Hurrell, K. Rasmussen and L. Sun, 2024: Impact of forced and internal climate variability on changes in convective environments over the eastern United States, Frontier in climate, doi: 10.3389/fclim.2024.1385527.</li>
+<li>Franke, M, J, Hurrell, K. Rasmussen and L. Sun, 2024: Impact of forced and internal climate variability on changes in convective environments over the eastern United States, Frontier in climate, doi: 10.3389/fclim.2024.1385527.</li>
     
 <li>Rea, D., D. Elsbury, A. Butler, L. Sun, Y. Peings and G. Magnusdottir, 2024: Interannual influence of Antarctic sea ice on Southern Hemisphere stratosphere-troposphere coupling, Geophysical Research Letters, doi:10.1029/2023GL107478.</li>
 
