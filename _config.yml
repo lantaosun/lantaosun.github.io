@@ -22,10 +22,10 @@ repository               : "lantaosun/lantaosun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lantao Sun"
+  name             : "Dr. Lantao Sun"
   pronouns         : "he/him/his"  
   bio              : "Climate scientist"
-  location         : "Colorado"
+  location         : "Fort Collins, Colorado"
   employer         : "Colorado State University"
   uri              : # URL
   email            : "lantao.sun@rams.colostate.edu" 
