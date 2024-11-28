@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. LANTAO SUN"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "lantaosun/lantaosun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Lantao Sun"
+  name             : "Lantao Sun"
   pronouns         : "he/him/his"  
   bio              : "Climate scientist"
   location         : "Fort Collins, Colorado"
