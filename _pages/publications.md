@@ -32,10 +32,14 @@ author_profile: true
 
 # Peer-reviewed Publications
 
-Frank, M, J, Hurrell, K. Rasmussen and L. Sun, 2024: Impact of forced and internal climate variability on changes in convective environments over the eastern United States, Frontier in climate, doi: 10.3389/fclim.2024.1385527.
+<ol reversed>
+
+<li>Frank, M, J, Hurrell, K. Rasmussen and L. Sun, 2024: Impact of forced and internal climate variability on changes in convective environments over the eastern United States, Frontier in climate, doi: 10.3389/fclim.2024.1385527.</li>
     
-Rea, D., D. Elsbury, A. Butler, L. Sun, Y. Peings and G. Magnusdottir, 2024: Interannual influence of Antarctic sea ice on Southern Hemisphere stratosphere-troposphere coupling, Geophysical Research Letters, doi:10.1029/2023GL107478.
-    
+<li>Rea, D., D. Elsbury, A. Butler, L. Sun, Y. Peings and G. Magnusdottir, 2024: Interannual influence of Antarctic sea ice on Southern Hemisphere stratosphere-troposphere coupling, Geophysical Research Letters, doi:10.1029/2023GL107478.</li>
+
+</ol>
+
 Sigmond, M. and L. Sun, 2024: The role of the basic state in the climate response to future sea ice loss, Environ. Res. Climate 3 031002, doi:10.1088/2752-5295/ad44ca.
     
 Gervais, M., L. Sun, C. Deser, 2024: Impacts of Projected Arctic Sea Ice Loss on Daily Weather Patterns over North America, Journal of Climate, doi:10.1175/JCLI-D-23-0389.1.
