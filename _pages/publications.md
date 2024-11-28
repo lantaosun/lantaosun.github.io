@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-&nbsp;
+<div style="margin-top: 20px;"></div>
 
 # Manuscript in preparation & submitted & in-press
 
