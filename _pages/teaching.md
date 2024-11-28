@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# {% include base_path %}
-
-# {% for post in site.teaching reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
-
 I have considerable experience mentoring undergraduate, graduate students, and postdoc. I have trained three undergraduate students in the past few years through the SURE and REU program. 
 * Mentoring support to graduate students and postdocs within the Hurrell group
 * Primary mentor for Anna Trujillo, University of Colorado Boulder, Research Experiences for Undergraduates (REU) program, summer 2024 
