@@ -88,7 +88,17 @@ I have broad interests in climate research, including Arctic-lower latitude link
   <div style="flex: 2;">
     <strong>6. Subseason-to-seasonal prediction</strong><br>
     I have worked with colleagues at NOAA, NCAR and Colorado State University to assess the subseasonal predictive skill of the current-generation subseasonal forecast systems and explore the source of the predictability. 
-    </ul>
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- Left: Figure -->
+  <div style="flex: 1; padding-right: 20px;">
+      <img src="07_STC.jpg" alt="Figure description" style="max-width: 100%; height: auto;">
+  </div>
+  <!-- Right: Text -->
+  <div style="flex: 2;">
+    <strong>7. Stratospehre-troposphere coupling</strong><br>
+    I have a background of stratospheric dynamics and  am still involved in various studies related to this topic. The questions we aim to address include: are there any tropospheric precursors to the sudden (final) stratospheric warming and strong polar vortex events? How are the stratospheric polar vortex variability and change impact the tropospheric circulation? 
+  </div>
+</div>
