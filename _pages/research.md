@@ -31,20 +31,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-  <!-- Left: Figure -->
-  <div style="flex: 1; padding-right: 20px;">
-      <img src="02_ARCTICx8.jpg" alt="ARCTIC_refinement_CESM" style="max-width: 100%; height: auto;">
-  </div>
-  <!-- Right: Text -->
-  <div style="flex: 2;">
-    <strong>High-resolution Modeling</strong><br>
-    My recent research theme involves utilizing high-resolution modeling to advance climate and weather research. I am part of the NSF supported Earthworks team, aiming to develop a 3.75-km global weather and climate model. I have been working on various projects utilizing the Arctic-refinement (⅛-deg) CESM as well as the International Laboratory for High-Resolution Earth System Prediction (iHESP) model at 0.1° ocean and 0.25° atmospheric resolution, exploring the sensitivity to model horizontal resolutions.
-  </div>
-</div>
-
-
-
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
@@ -106,5 +92,17 @@ I have broad interests in climate research, including Arctic-lower latitude link
   <div style="flex: 2;">
     <strong>Stratospehre-troposphere coupling</strong><br>
     I have a background of stratospheric dynamics and  am still involved in various studies related to this topic. The questions we aim to address include: are there any tropospheric precursors to the sudden (final) stratospheric warming and strong polar vortex events? How are the stratospheric polar vortex variability and change impact the tropospheric circulation? 
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+  <!-- Left: Figure -->
+  <div style="flex: 1; padding-right: 20px;">
+      <img src="02_ARCTICx8.jpg" alt="ARCTIC_refinement_CESM" style="max-width: 100%; height: auto;">
+  </div>
+  <!-- Right: Text -->
+  <div style="flex: 2;">
+    <strong>High-resolution Modeling</strong><br>
+    My recent research theme involves utilizing high-resolution modeling to advance climate and weather research. I am part of the NSF supported Earthworks team, aiming to develop a 3.75-km global weather and climate model. I have been working on various projects utilizing the Arctic-refinement (⅛-deg) CESM as well as the International Laboratory for High-Resolution Earth System Prediction (iHESP) model at 0.1° ocean and 0.25° atmospheric resolution, exploring the sensitivity to model horizontal resolutions.
   </div>
 </div>
