@@ -43,10 +43,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="margin-top: 20px;"></div>
-<div style="margin-top: 20px;"></div>
-<div style="margin-top: 20px;"></div>
-<div style="margin-top: 20px;"></div>
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
@@ -61,7 +57,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
@@ -75,7 +70,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
@@ -89,7 +83,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
@@ -103,7 +96,6 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
