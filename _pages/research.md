@@ -43,6 +43,9 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
+<div style="margin-top: 20px;"></div>
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
@@ -54,6 +57,8 @@ I have broad interests in climate research, including Arctic-lower latitude link
     WBCs, including the Gulf Stream, Kuroshio-Oyashio Extension, Brazil-Malvinas Confluence and Agulhas Currents, are midlatitude regions where ocean dynamics plays a key role in driving atmospheric variability. Previous studies have found that current-generation climate models are too coarse to capture small scales that are essential for accurately representing atmosphere-ocean coupling over WBCs. We are currently utilizing the slab-ocean coupled version of the iHESP model at 0.1° ocean and 0.25° atmospheric resolution to study the influence of ocean heat transport variability on atmospheric circulation. Our findings have important implications for large-scale atmospheric circulation. 
   </div>
 </div>
+
+<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
@@ -67,6 +72,8 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
+<div style="margin-top: 20px;"></div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
@@ -79,6 +86,8 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
+<div style="margin-top: 20px;"></div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
@@ -90,6 +99,8 @@ I have broad interests in climate research, including Arctic-lower latitude link
     I have worked with colleagues at NOAA, NCAR and Colorado State University to assess the subseasonal predictive skill of the current-generation subseasonal forecast systems and explore the source of the predictability. 
   </div>
 </div>
+
+<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
