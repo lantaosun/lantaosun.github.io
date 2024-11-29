@@ -31,7 +31,7 @@ I have broad interests in climate research, including Arctic-lower latitude link
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <!-- Left: Figure -->
   <div style="flex: 1; padding-right: 20px;">
       <img src="02_ARCTICx8.jpg" alt="ARCTIC_refinement_CESM" style="max-width: 100%; height: auto;">
