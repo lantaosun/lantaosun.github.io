@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-I have broad interests in climate research, including Arctic-lower latitude linkage, stratosphere-troposphere coupling, ocean-atmosphere interaction, and weather-climate interface. My work is supported by expertise in Earth System Modeling, particularly high-resolution modeling. Below are examples of my research areas.
+I have broad interests in climate research, including Arctic-lower latitude linkages, stratosphere-troposphere coupling, ocean-atmosphere interactions, and the weather-climate interface. My work is supported by expertise in Earth System Modeling, particularly high-resolution modeling. Below are specific examples of my research areas.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Left: Figure -->
