@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education Information
+Education
 ======
 * Ph.D. in Atmospheric dynamics, University of Illinois at Urbana-Champaign, 2010
 * M.S. and B.S. in Atmospheric Science, Peking University, Beijing, China, 2005, 2002.
