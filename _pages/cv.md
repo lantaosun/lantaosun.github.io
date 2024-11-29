@@ -22,20 +22,9 @@ Professional Experience
 * 2013-2015: Postdoctoral Associate, NCAR, Boulder, CO				   
 * 2010-2013: Postdoctoral Associate, Cornell University, Ithaca, NY	                           
 * 2005-2010: Research Assistant, University of Illinois at Urbana-Champaign, Urbana, IL 
-  
-Editorships
-======
-* 2024-present: Executive editor: Climate Dynamics
-* 2019-present: Associated editor: Journal of Climate
 
-Professional Activities
+Professional Membership
 ======
-* 2021-2024: Primary Convener/Convener of the AGU session on polar amplification
-* 2021-2024: Organizing committee of PAMIP webinars
-* 2021, 2024: Organizing committee of PAMIP workshops
-* 2017-2020: Steering committee of Stratospheric Network for Assessment of Predictability
-* 2016-2019: Member of NOAA Subseasonal to seasonal prediction task force
-* 2015: Organizing committee of SPARC Region Workshop
 * 2007-present: Member of American Geophysical Union 
 * 2007-present: Member of American Meteorological Society 
 
