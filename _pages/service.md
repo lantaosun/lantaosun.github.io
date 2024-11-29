@@ -1,4 +1,13 @@
+---
+layout: archive
+title: "Service"
+permalink: /service/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+{% include base_path %}
 
 
 Editorships
@@ -14,8 +23,6 @@ Professional Activities
 * 2017-2020: Steering committee of Stratospheric Network for Assessment of Predictability
 * 2016-2019: Member of NOAA Subseasonal to seasonal prediction task force
 * 2015: Organizing committee of SPARC Region Workshop
-* 2007-present: Member of American Geophysical Union 
-* 2007-present: Member of American Meteorological Society 
 
 Journal Reviewers
 ======
