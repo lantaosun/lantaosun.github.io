@@ -27,14 +27,3 @@ Professional Membership
 ======
 * 2007-present: Member of American Geophysical Union 
 * 2007-present: Member of American Meteorological Society 
-
-Journal Reviewers
-======
-Nature, Nature Climate change, Nature Communication, Proceedings of the National Academy of Sciences, Bulletin of the American Meteorological Society, Scientific Report, Journal of Climate, Climate Dynamics, Geophysical Research Letters, Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal of the Atmospheric Sciences, International Journal of climatology, Journal of Atmospheric and Solar-Terrestrial Physics, The Acta Meteorologica Sinica, Advance in Atmospheric Sciences, Chinese journal of polar research
-
-Grant Reviewers
-======
-* National Science Foundation (Polar Programs Climate and Large-Scale Dynamics)
-* Knut and Alice Wallenberg Foundation
-* ETH Grant funding programme.
-
