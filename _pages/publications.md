@@ -15,10 +15,6 @@ author_profile: true
 
 # Manuscript in preparation & submitted & in-press
 
-- Sun, L., R. Wills, C. Deser, A. Herrington, I. Simpson, M. Gervais, 2024: Sensitivity of Atmospheric Response to Future Arctic Sea Ice loss at Different Arctic Horizontal Resolutions in PAMIP-type Simulations, in preparation.
-
-- Sun, L., J. Hurrell, K. Rasmussen, B. Kravitz, B. Summers, 2024: Assessing the Impact of Solar Climate Intervention on Future U.S. Weather Using a Convection-Permitting Model, In preparation.
-
 - Sun, L., C. Patrizio, D. Thompson and J. Hurrell, 2024: Influence of Extratropical Ocean Heat Transport on Atmospheric Vertical Motion Variability in a High-Resolution Slab-Ocean Coupled Model, Geophysical Research Letters, In revision, preprint available at: DOI: 10.22541/essoar.172304446.60110584/v1.
 
 - Kang J., T. Shaw and L. Sun, 2024: Anthropogenic aerosols have significantly weakened the regional summertime circulation in the Northern Hemisphere during the satellite era, AGU advance, In press.
