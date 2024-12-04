@@ -13,7 +13,7 @@ author_profile: true
 
 <div style="margin-top: 10px;"></div>
 
-# Manuscript in preparation & submitted & in-press
+# Manuscript submitted & in-press
 
 - Sun, L., C. Patrizio, D. Thompson and J. Hurrell, 2024: Influence of Extratropical Ocean Heat Transport on Atmospheric Vertical Motion Variability in a High-Resolution Slab-Ocean Coupled Model, Geophysical Research Letters, In revision, preprint available at: DOI: 10.22541/essoar.172304446.60110584/v1.
 
