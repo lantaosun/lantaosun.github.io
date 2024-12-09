@@ -141,7 +141,3 @@ author_profile: true
 <li>Sun, L. and W. A. Robinson, 2009: Downward influence of stratospheric final warming events in an idealized model, Geophys. Res. Lett., 36, L03819, doi:10.1029/2008GL036624. </li>
 
 </ol>
-
-# Ph.D. dissertation
-
-- Sun, L., Downward influence of stratospheric final warming events in an idealized model, University of Illinois at Urbana-Champaign, August 2010.
